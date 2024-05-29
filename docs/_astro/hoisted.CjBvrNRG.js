@@ -1,1 +1,0 @@
-import{g as l}from"./global.SDp82CGS.js";const o=localStorage.getItem("locale")?.toString()||"es";l.currentPath(location.href);window.location.replace(`/${o}`);console.log("Root",o);console.log(localStorage.getItem("locale")?.toString());
