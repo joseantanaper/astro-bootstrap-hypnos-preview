@@ -1,0 +1,1 @@
+import{g as e}from"./hoisted.BSVEvqRL.js";const t=e.getStoredLocale()||"Not detected",o=e.theme.getStoredTheme()||"Not detected";document.getElementById("app-stored-locale").textContent=t;document.getElementById("app-stored-theme").textContent=o;
